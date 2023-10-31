@@ -1,7 +1,7 @@
 # Curso de Python (Template)
 
 ![example workflow](https://github.com/fralfaro/DS-Python-Course/actions/workflows/documentation.yml/badge.svg)
-<a href="https://fralfaro.github.io/DS-Python-Course/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
+<a href="https://MolgaEgana.github.io/Test_Ayudantes/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 
 
 ## Descripción del Repositorio
@@ -73,7 +73,7 @@ donde:
 
 ```
 ![example workflow](https://github.com/fralfaro/DS-Python-Course/actions/workflows/documentation.yml/badge.svg)
-<a href="https://fralfaro.github.io/DS-Python-Course/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
+<a href="https://MolgaEgana.github.io/Test_Ayudantes/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 ```
 
 Debe cambiar:
@@ -88,13 +88,13 @@ Debe cambiar:
 ```
 # Project information
 site_name: Home
-site_url: https://github.com/fralfaro/DS-Python-Course
-site_author: Francisco Alfaro
+site_url: https://github.com/MolgaEgana/Test_Ayudantes
+site_author: María Olga Egaña
 site_description:
 
 # Repository
-repo_name: fralfaro/DS-Python-Course
-repo_url: https://github.com/fralfaro/DS-Python-Course
+repo_name: MolgaEgana/Test_Ayudantes
+repo_url: https://github.com/MolgaEgana/Test_Ayudantes
 edit_uri: ''
 ```
 
@@ -160,7 +160,7 @@ En esta sección se agregan los archivos `.ipynb` que necesita agregar a su docu
 name = "docs"
 version = "0.1.0"
 description = "mkdocs - courses"
-authors = ["Francisco Alfaro <francisco.alfaro.496@gmail.com>"]
+authors = ["María Olga Eñana <maria.eganam@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 ```
@@ -179,7 +179,7 @@ Introducción básica a Python
 El material está disponible en el siguiente [repositorio](https://github.com/fralfaro/DS-Python-Course), para obtener el código de fuente basta con que ejecutes el siguiente comando:
 
 
-> `https://github.com/fralfaro/DS-Python-Course`
+> `https://github.com/MolgaEgana/Test_Ayudantes`
 
 
 ## Contenidos temáticos
