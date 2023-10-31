@@ -1,4 +1,4 @@
-# Curso de Python (Template)
+# Super Curso de Python (Template)
 
 ![example workflow](https://github.com/MolgaEgana/Test_Ayudantes/actions/workflows/documentation.yml/badge.svg)
 <a href="https://MolgaEgana.github.io/Test_Ayudantes/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
