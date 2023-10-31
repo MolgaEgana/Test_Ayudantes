@@ -1,6 +1,6 @@
 # Curso de Python (Template)
 
-![example workflow](https://github.com/fralfaro/DS-Python-Course/actions/workflows/documentation.yml/badge.svg)
+![example workflow](https://github.com/MolgaEgana/Test_Ayudantes/actions/workflows/documentation.yml/badge.svg)
 <a href="https://MolgaEgana.github.io/Test_Ayudantes/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 
 
@@ -72,7 +72,7 @@ donde:
 ### [Readme.md](README.md)
 
 ```
-![example workflow](https://github.com/fralfaro/DS-Python-Course/actions/workflows/documentation.yml/badge.svg)
+![example workflow](https://github.com/MolgaEgana/Test_Ayudantes/actions/workflows/documentation.yml/badge.svg)
 <a href="https://MolgaEgana.github.io/Test_Ayudantes/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 ```
 
@@ -125,7 +125,7 @@ Debe cambiar:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fralfaro
+      link: https://github.com/MolgaEgana
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/faam/
     - icon: fontawesome/solid/globe
@@ -160,7 +160,7 @@ En esta sección se agregan los archivos `.ipynb` que necesita agregar a su docu
 name = "docs"
 version = "0.1.0"
 description = "mkdocs - courses"
-authors = ["María Olga Eñana <maria.eganam@gmail.com>"]
+authors = ["María Olga Egaña <maria.eganam@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 ```
@@ -176,7 +176,7 @@ Introducción básica a Python
 
 ## Material
 
-El material está disponible en el siguiente [repositorio](https://github.com/fralfaro/DS-Python-Course), para obtener el código de fuente basta con que ejecutes el siguiente comando:
+El material está disponible en el siguiente [repositorio](https://github.com/MolgaEgana/Test_Ayudantes), para obtener el código de fuente basta con que ejecutes el siguiente comando:
 
 
 > `https://github.com/MolgaEgana/Test_Ayudantes`
