@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/MolgaEgana/MolgaEgana/</loc>
+         <loc>https://github.com/MolgaEgana/</loc>
          <lastmod>2023-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MolgaEgana/MolgaEgana/__init__/</loc>
+         <loc>https://github.com/MolgaEgana/__init__/</loc>
          <lastmod>2023-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MolgaEgana/MolgaEgana/basic/</loc>
+         <loc>https://github.com/MolgaEgana/basic/</loc>
          <lastmod>2023-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MolgaEgana/MolgaEgana/intro/</loc>
+         <loc>https://github.com/MolgaEgana/intro/</loc>
          <lastmod>2023-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MolgaEgana/MolgaEgana/pandas/</loc>
+         <loc>https://github.com/MolgaEgana/pandas/</loc>
          <lastmod>2023-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/MolgaEgana/MolgaEgana/seaborn/</loc>
+         <loc>https://github.com/MolgaEgana/seaborn/</loc>
          <lastmod>2023-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
